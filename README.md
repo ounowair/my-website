@@ -7,4 +7,3 @@
 - style.css : 見た目の設定
 
 ## 公開URL
-- https://github.com/ounowair/my-website/
